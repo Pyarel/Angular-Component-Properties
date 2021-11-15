@@ -2,7 +2,9 @@
 
 Hi there!.
 
-This project was created while I was learning Component Interaction from a Youtube video by kudvenkat. It is a sample angular application which shows interaction between the container component and the nested component using Component Input and Output properties.
+This project was created while I was learning Component Interaction from a Youtube video by kudvenkat. 
+
+It is a sample angular application which shows interaction between the container component and the nested component using Component Input and Output properties.
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
