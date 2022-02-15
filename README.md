@@ -2,7 +2,7 @@
 
 Hi there!.
 
-This project was created while I was learning Component Interaction from a Youtube video by kudvenkat. 
+This project was created while I was learning Component Interaction in Angular. 
 
 It is a sample angular application which shows interaction between the container component and the nested component using Component Input and Output properties.
 
