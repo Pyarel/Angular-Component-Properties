@@ -6,8 +6,8 @@ This project was created while I was learning Component Interaction in Angular.
 
 It is a sample angular application which shows interaction between the container component and the nested component using Component Input and Output properties.
 
-![image](https://user-images.githubusercontent.com/43133633/154007122-8c742e06-8aea-40cc-a0f3-058f65e32dc3.png)
-![image](https://user-images.githubusercontent.com/43133633/154007171-c4af1d0a-63ef-4058-b3a7-15b2bbbd4cc1.png)
+![image](https://user-images.githubusercontent.com/43133633/154007122-8c742e06-8aea-40cc-a0f3-058f65e32dc3.png)                                                            
+![image](https://user-images.githubusercontent.com/43133633/154007171-c4af1d0a-63ef-4058-b3a7-15b2bbbd4cc1.png)                                                        
 ![image](https://user-images.githubusercontent.com/43133633/154007203-655b1cf8-746d-44e4-a441-3cf4b279dfa0.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
